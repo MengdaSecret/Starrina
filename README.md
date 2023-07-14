@@ -5,3 +5,6 @@ Hi～很高兴见到你！我是一个温柔、善良的女孩，我的名字叫
 链接：**[Releases](https://github.com/MengdaSecret/Starrina/releases)**
 
 **.apk** 文件即为星愿的安装包.
+
+## 在浏览器上使用
+网页版：**[Starrina](https://poe.com/Starrina)**
